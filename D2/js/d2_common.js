@@ -10,4 +10,6 @@ function d2_XXXX4() {
 };
 function d2_XXXX5() {
 };
+function d2_XXXX6() {
+};
 
