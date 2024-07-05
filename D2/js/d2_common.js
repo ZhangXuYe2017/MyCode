@@ -18,3 +18,5 @@ function d2_XXXX8() {
 };
 function d2_XXXX9() {
 };
+function d2_XXXX10() {
+};
