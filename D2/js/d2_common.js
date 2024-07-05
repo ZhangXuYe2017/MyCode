@@ -12,4 +12,6 @@ function d2_XXXX5() {
 };
 function d2_XXXX6() {
 };
+function d2_XXXX7() {
+};
 
