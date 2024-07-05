@@ -14,4 +14,6 @@ function d2_XXXX6() {
 };
 function d2_XXXX7() {
 };
+function d2_XXXX8() {
+};
 
